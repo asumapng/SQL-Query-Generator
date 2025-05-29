@@ -33,7 +33,9 @@ This project enables users to **upload an Excel file with dummy data** and **ask
 4. Run the App
 5. Ask away your SQL Questions!
 
-## More examples:
+---
+
+## More of the App:
 
 <img width="618" alt="Screenshot 2025-05-30 at 1 00 15 AM" src="https://github.com/user-attachments/assets/eb223661-79e8-4c42-80c8-361b21bcbb58" />
 
